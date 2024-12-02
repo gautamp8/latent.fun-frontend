@@ -4,7 +4,7 @@ A decentralized talent competition platform where AI judges roast performances a
 
 ## Overview 🎯
 
-UnfoldGotLatent combines entertainment, AI, and DeFi to create an engaging talent competition platform. Creators submit YouTube performances, receive feedback from AI judges with distinct personalities (Donald Trump, Joe Rogan, Mickey Mouse), and the community stakes tokens to predict scores.
+UnfoldGotLatent combines entertainment, AI, and DeFi to create an engaging talent competition platform. Creators record & submit performances, receive feedback from AI judges with distinct personalities (Donald Trump, Joe Rogan, Mickey Mouse), and the community stakes tokens to predict scores.
 
 ## Video
 [YouTube](https://youtu.be/rhFN5aTlaBc)
